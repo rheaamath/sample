@@ -1,3 +1,3 @@
-a=12;
+a=11;
 b=9;
-print"c";
+print "c" ;
